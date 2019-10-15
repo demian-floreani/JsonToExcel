@@ -1,0 +1,81 @@
+﻿{
+  "HotelList": [
+    {
+      "hotel": {
+        "classification": 5,
+        "hotelID": 7294,
+        "name": "Hotel 1",
+        "reviewscore": 8.3
+      },
+      "hotelRates": [
+        {
+          "adults": 2,
+          "los": 1,
+          "price": {
+            "currency": "EUR",
+            "numericFloat": 116.1,
+            "numericInteger": 11610
+          },
+          "rateDescription": "",
+          "rateID": "-739857498",
+          "rateName": "Name 1",
+          "rateTags": [
+            {
+              "name": "breakfast",
+              "shape": false
+            }
+          ],
+          "targetDay": "2016-03-15T00:00:00.000+01:00"
+        }
+      ]
+    },
+    {
+      "hotel": {
+        "classification": 5,
+        "hotelID": 7294,
+        "name": "Hotel 2",
+        "reviewscore": 8.3
+      },
+      "hotelRates": [
+        {
+          "adults": 2,
+          "los": 1,
+          "price": {
+            "currency": "EUR",
+            "numericFloat": 78.5,
+            "numericInteger": 7850
+          },
+          "rateDescription": "",
+          "rateID": "-739857498",
+          "rateName": "Name 2",
+          "rateTags": [
+            {
+              "name": "breakfast",
+              "shape": true
+            }
+          ],
+          "targetDay": "2016-03-15T00:00:00.000+01:00"
+        },
+        {
+          "adults": 1,
+          "los": 1,
+          "price": {
+            "currency": "EUR",
+            "numericFloat": 116.1,
+            "numericInteger": 11610
+          },
+          "rateDescription": "",
+          "rateID": "-739857498",
+          "rateName": "Name 3",
+          "rateTags": [
+            {
+              "name": "breakfast",
+              "shape": false
+            }
+          ],
+          "targetDay": "2016-03-15T00:00:00.000+01:00"
+        }
+      ]
+    }
+  ]
+}
